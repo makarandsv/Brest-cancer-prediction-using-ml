@@ -1,5 +1,8 @@
-#Breast-Cancer-Prediction-Using-ML-Classification-models 
-##Technology: Python (along with pandas, matplotlib, sklearn libraries).
+
+
+
+ Technology: Python (along with pandas, matplotlib, sklearn libraries).
+ 
 • Applied SVM, K-Nearest Neighbors, Logistic Regression, Naïve Bayes and Random Forest algorithms to the Wisconsin Breast Cancer dataset from the UCI ML Repository (Kaggle)
 • To predict whether the breast cancer tumor is malignant or benign.
 • Compared the performance results of all the algorithms based on the accuracy and ROC values.
